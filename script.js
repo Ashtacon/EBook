@@ -65,3 +65,8 @@ function changeContent(direction) {
 }
 
 changeContent("next");
+
+function hideMipa5() {
+  const mipa5Element = document.querySelector(".mipa5");
+  mipa5Element.style.display = "none";
+}
