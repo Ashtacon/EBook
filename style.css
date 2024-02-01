@@ -20,6 +20,7 @@ iframe {
 }
 
 .detail {
+  padding: 2rem;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -39,4 +40,13 @@ iframe {
   -moz-border-radius: 15px;
   -ms-border-radius: 15px;
   -o-border-radius: 15px;
+}
+
+@media (max-width: 500px) {
+  .name {
+    font-size: 0.5rem;
+  }
+  .detail {
+    gap: 1rem;
+  }
 }

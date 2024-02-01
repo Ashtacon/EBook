@@ -1,7 +1,10 @@
 const belum = "https://www.canva.com/design/DAF7jTyjzro/view?embed";
 
 const contentData = [
-  { src: belum, title: "Zahid Abdullah Nur Mukhlisin" },
+  {
+    src: "https://www.canva.com/design/DAF7eJV5Ex8/y-BuRXCEUmGNj7j2fb6VtA/view?embed",
+    title: "Zahid Abdullah Nur Mukhlisin",
+  },
   { src: belum, title: "Aditya Dwi Putra Hestialvin" },
   { src: belum, title: "Afdal Elang Arifin" },
   { src: belum, title: "Ararya Arka Anugaraha" },
@@ -14,7 +17,10 @@ const contentData = [
   { src: belum, title: "Faiq Muntashir" },
   { src: belum, title: "Febriano" },
   { src: belum, title: "Hammam Al Rosyid Mudhoffar" },
-  { src: belum, title: "Hudaifa Dzaky Akbar Mahardika" },
+  {
+    src: "https://www.canva.com/design/DAF7arfMp7c/view?embed",
+    title: "Hudaifa Dzaky Akbar Mahardika",
+  },
   { src: belum, title: "Muhammad Abidzar Al Ghifari" },
   { src: belum, title: "Muhammad Abu Bakar As Shidiq Abdul Aziz" },
   { src: belum, title: "Muhammad Adji Al Mahfudz" },
