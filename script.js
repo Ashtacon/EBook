@@ -1,126 +1,36 @@
-const belum = "";
+const belum = "https://www.canva.com/design/DAF7jTyjzro/view?embed";
 
 const contentData = [
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Zahid Abdullah Nur Mukhlisin",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Aditya Dwi Putra Hestialvin",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Afdal Elang Arifin",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Ararya Arka Anugaraha",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Arkha Digda Gallerin Putra",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Ayub Dwi Romadhon",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Azka Arif Sudibya",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Brilliant Lucky Finaltianto",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Danar Abisatya Hidayat",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Dzikri Faisal Husaini",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Faiq Muntashir",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Febriano",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Hammam Al Rosyid Mudhoffar",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Hudaifa Dzaky Akbar Mahardika",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Muhammad Abidzar Al Ghifari",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Muhammad Abu Bakar As Shidiq Abdul Aziz",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Muhammad Adji Al Mahfudz",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Muhammad Akmal Hartas",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Muhammad Aryaputra Wahyu Pratama",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Muhammad Faiz Prasetyo",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Muhammad Fauzi Al Maududi",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Muhammad Rasyid",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Muhammad Zaidan Abhinaya",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Ngariful Qowam Ghozali Zaini",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Rachmatannas Yulian Firdaus",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Rafa Haya Narundana",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Rakan Raditya Kurniawan",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Satria Widya Pamungkas",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Wahyu Hadi Ramadhan",
-  },
-  {
-    src: "https://www.canva.com/design/DAF7jTyjzro/view?embed",
-    title: "Yusuf Ghani Akbar",
-  },
+  { src: belum, title: "Zahid Abdullah Nur Mukhlisin" },
+  { src: belum, title: "Aditya Dwi Putra Hestialvin" },
+  { src: belum, title: "Afdal Elang Arifin" },
+  { src: belum, title: "Ararya Arka Anugaraha" },
+  { src: belum, title: "Arkha Digda Gallerin Putra" },
+  { src: belum, title: "Ayub Dwi Romadhon" },
+  { src: belum, title: "Azka Arif Sudibya" },
+  { src: belum, title: "Brilliant Lucky Finaltianto" },
+  { src: belum, title: "Danar Abisatya Hidayat" },
+  { src: belum, title: "Dzikri Faisal Husaini" },
+  { src: belum, title: "Faiq Muntashir" },
+  { src: belum, title: "Febriano" },
+  { src: belum, title: "Hammam Al Rosyid Mudhoffar" },
+  { src: belum, title: "Hudaifa Dzaky Akbar Mahardika" },
+  { src: belum, title: "Muhammad Abidzar Al Ghifari" },
+  { src: belum, title: "Muhammad Abu Bakar As Shidiq Abdul Aziz" },
+  { src: belum, title: "Muhammad Adji Al Mahfudz" },
+  { src: belum, title: "Muhammad Akmal Hartas" },
+  { src: belum, title: "Muhammad Aryaputra Wahyu Pratama" },
+  { src: belum, title: "Muhammad Faiz Prasetyo" },
+  { src: belum, title: "Muhammad Fauzi Al Maududi" },
+  { src: belum, title: "Muhammad Rasyid" },
+  { src: belum, title: "Muhammad Zaidan Abhinaya" },
+  { src: belum, title: "Ngariful Qowam Ghozali Zaini" },
+  { src: belum, title: "Rachmatannas Yulian Firdaus" },
+  { src: belum, title: "Rafa Haya Narundana" },
+  { src: belum, title: "Rakan Raditya Kurniawan" },
+  { src: belum, title: "Satria Widya Pamungkas" },
+  { src: belum, title: "Wahyu Hadi Ramadhan" },
+  { src: belum, title: "Yusuf Ghani Akbar" },
 ];
 
 let currentIndex = 0;
