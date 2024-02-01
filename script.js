@@ -29,7 +29,10 @@ const contentData = [
   { src: belum, title: "Muhammad Faiz Prasetyo" },
   { src: belum, title: "Muhammad Fauzi Al Maududi" },
   { src: belum, title: "Muhammad Rasyid" },
-  { src: belum, title: "Muhammad Zaidan Abhinaya" },
+  {
+    src: "https://www.canva.com/design/DAF7jWJhwFw/796B2ok8d0UiJHGLfcbDsw/view?embed",
+    title: "Muhammad Zaidan Abhinaya",
+  },
   { src: belum, title: "Ngariful Qowam Ghozali Zaini" },
   { src: belum, title: "Rachmatannas Yulian Firdaus" },
   { src: belum, title: "Rafa Haya Narundana" },
