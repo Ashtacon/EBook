@@ -22,7 +22,10 @@ const contentData = [
     title: "Hudaifa Dzaky Akbar Mahardika",
   },
   { src: belum, title: "Muhammad Abidzar Al Ghifari" },
-  { src: belum, title: "Muhammad Abu Bakar As Shidiq Abdul Aziz" },
+  {
+    src: "https://www.canva.com/design/DAF7jWJhwFw/796B2ok8d0UiJHGLfcbDsw/view?embed",
+    title: "Muhammad Abu Bakar As Shidiq Abdul Aziz",
+  },
   { src: belum, title: "Muhammad Adji Al Mahfudz" },
   { src: belum, title: "Muhammad Akmal Hartas" },
   { src: belum, title: "Muhammad Aryaputra Wahyu Pratama" },
@@ -35,7 +38,10 @@ const contentData = [
   },
   { src: belum, title: "Ngariful Qowam Ghozali Zaini" },
   { src: belum, title: "Rachmatannas Yulian Firdaus" },
-  { src: belum, title: "Rafa Haya Narundana" },
+  {
+    src: "https://www.canva.com/design/DAF7pBqbYv4/j51UgnB7ozOLYsg4WyMugw/view?embed",
+    title: "Rafa Haya Narundana",
+  },
   { src: belum, title: "Rakan Raditya Kurniawan" },
   { src: belum, title: "Satria Widya Pamungkas" },
   { src: belum, title: "Wahyu Hadi Ramadhan" },
