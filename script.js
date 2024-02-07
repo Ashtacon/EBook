@@ -21,9 +21,12 @@ const contentData = [
     src: "https://www.canva.com/design/DAF7arfMp7c/view?embed",
     title: "Hudaifa Dzaky Akbar Mahardika",
   },
-  { src: belum, title: "Muhammad Abidzar Al Ghifari" },
   {
-    src: "https://www.canva.com/design/DAF7jWJhwFw/796B2ok8d0UiJHGLfcbDsw/view?embed",
+    src: "https://www.canva.com/design/DAF71mRhVFI/gvEybtBQM_fQXkS1k44O0g/view?embed",
+    title: "Muhammad Abidzar Al Ghifari",
+  },
+  {
+    src: "https://www.canva.com/design/DAF7pUKBllU/7lemhlFrZheMlNhCAQcbuQ/view?embed",
     title: "Muhammad Abu Bakar As Shidiq Abdul Aziz",
   },
   { src: belum, title: "Muhammad Adji Al Mahfudz" },
