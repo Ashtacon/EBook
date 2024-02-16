@@ -69,7 +69,7 @@ const contentData = [
   { src: belum, title: "Ngariful Qowam Ghozali Zaini" },
   { src: belum, title: "Rachmatannas Yulian Firdaus" },
   {
-    src: "https://www.canva.com/design/DAF7pBqbYv4/j51UgnB7ozOLYsg4WyMugw/view?embed",
+    src: "https://www.canva.com/design/DAF7pK8MV_g/RVDOqZtyT2fih0xB8oe-QA/view?embed",
     title: "Rafa Haya Narundana",
   },
   { src: belum, title: "Rakan Raditya Kurniawan" },
