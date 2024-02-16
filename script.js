@@ -5,18 +5,39 @@ const contentData = [
     src: "https://www.canva.com/design/DAF7eJV5Ex8/y-BuRXCEUmGNj7j2fb6VtA/view?embed",
     title: "Zahid Abdullah Nur Mukhlisin",
   },
-  { src: belum, title: "Aditya Dwi Putra Hestialvin" },
-  { src: belum, title: "Afdal Elang Arifin" },
+  {
+    src: "https://www.canva.com/design/DAF8E7OYW7g/kpO5d2NOJzCLUB5r8V5-9A/view?embed",
+    title: "Aditya Dwi Putra Hestialvin",
+  },
+  {
+    src: "https://www.canva.com/design/DAF8EqysVnc/VWo4fadLBd0i6RVtpIZ7uA/view?embed",
+    title: "Afdal Elang Arifin",
+  },
   { src: belum, title: "Ararya Arka Anugaraha" },
-  { src: belum, title: "Arkha Digda Gallerin Putra" },
-  { src: belum, title: "Ayub Dwi Romadhon" },
-  { src: belum, title: "Azka Arif Sudibya" },
-  { src: belum, title: "Brilliant Lucky Finaltianto" },
+  {
+    src: "https://www.canva.com/design/DAF8mp5JjTg/Fbtr66GT53SGNZIR0VITwg/view?embed",
+    title: "Arkha Digda Gallerin Putra",
+  },
+  {
+    src: "https://www.canva.com/design/DAF8glevJaw/6DvCs8cFqe8cQz1aFX8ejQ/view?embed",
+    title: "Ayub Dwi Romadhon",
+  },
+  {
+    src: "https://www.canva.com/design/DAF7dnOSGYs/qjWnlblfIH2MqGXt1U9RNQ/view?embed",
+    title: "Azka Arif Sudibya",
+  },
+  {
+    src: "https://www.canva.com/design/DAF8fguDmAM/KEvOZqKW58KZ0HZ-wdx3NA/view?embed",
+    title: "Brilliant Lucky Finaltianto",
+  },
   { src: belum, title: "Danar Abisatya Hidayat" },
   { src: belum, title: "Dzikri Faisal Husaini" },
   { src: belum, title: "Faiq Muntashir" },
   { src: belum, title: "Febriano" },
-  { src: belum, title: "Hammam Al Rosyid Mudhoffar" },
+  {
+    src: "https://www.canva.com/design/DAF8EjUzICE/_T37iqYpr639NhyhbtTLhQ/view?embed",
+    title: "Hammam Al Rosyid Mudhoffar",
+  },
   {
     src: "https://www.canva.com/design/DAF7arfMp7c/view?embed",
     title: "Hudaifa Dzaky Akbar Mahardika",
@@ -29,7 +50,10 @@ const contentData = [
     src: "https://www.canva.com/design/DAF7pUKBllU/7lemhlFrZheMlNhCAQcbuQ/view?embed",
     title: "Muhammad Abu Bakar As Shidiq Abdul Aziz",
   },
-  { src: belum, title: "Muhammad Adji Al Mahfudz" },
+  {
+    src: "https://www.canva.com/design/DAF8ElmBWW8/mUB9Vv-q9Ek7If09PfUvag/view?embed",
+    title: "Muhammad Adji Al Mahfudz",
+  },
   { src: belum, title: "Muhammad Akmal Hartas" },
   { src: belum, title: "Muhammad Aryaputra Wahyu Pratama" },
   { src: belum, title: "Muhammad Faiz Prasetyo" },
