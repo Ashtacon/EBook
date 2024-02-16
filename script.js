@@ -54,7 +54,10 @@ const contentData = [
     src: "https://www.canva.com/design/DAF8ElmBWW8/mUB9Vv-q9Ek7If09PfUvag/view?embed",
     title: "Muhammad Adji Al Mahfudz",
   },
-  { src: belum, title: "Muhammad Akmal Hartas" },
+  {
+    src: "https://www.canva.com/design/DAF7z3pFR1Y/XitGX4SrLgI2MwD4vw1A3g/view?embed",
+    title: "Muhammad Akmal Hartas",
+  },
   { src: belum, title: "Muhammad Aryaputra Wahyu Pratama" },
   { src: belum, title: "Muhammad Faiz Prasetyo" },
   { src: belum, title: "Muhammad Fauzi Al Maududi" },
